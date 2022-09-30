@@ -1,0 +1,3 @@
+- 👋 Hello there, I’m Matayay Karuna.
+- 👀 I’m interested in programming, AI, space, and biology.
+- 🌱 I’m currently learning C++
