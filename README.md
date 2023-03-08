@@ -1,3 +1,3 @@
 - 👋 Hello there, I’m Matayay Karuna.
-- 👀 I’m interested in programming, AI, space, and biology.
-- 🌱 I’m currently learning C++, HTML, CSS, and Javascript
+- 👀 I’m interested in programming, AI, and all things Science.
+- 🌱 I’m currently pursuing a BS in Computer Science from CU Boulder.
